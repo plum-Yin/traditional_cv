@@ -1,0 +1,9 @@
+
+.idea/
+
+/not_upload/
+.ipynb_checkpoints/
+
+/01-图像基础知识/OpenCV-图像基础知识.md
+
+test.py
